@@ -15,3 +15,5 @@ Jawab :
 Sebenarnya jika width dan height tidak di atur maka gambar akan sesuai dengan yang dibutuhkan untuk menampilkan data. 
 5.	Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 Jawab : Blank : agar tab link berbeda - self : agar tab link berbeda namun self tab yang sama - top : klik link kembali kehalaman atas
+1.png
+2.png
